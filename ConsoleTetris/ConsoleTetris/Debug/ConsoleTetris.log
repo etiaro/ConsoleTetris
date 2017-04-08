@@ -1,0 +1,6 @@
+﻿  ConsoleTetris.cpp
+c:\users\jakub\source\repos\consoletetris\consoletetris\consoletetris\consoletetris.cpp(333): warning C4018: '<': signed/unsigned mismatch
+c:\users\jakub\source\repos\consoletetris\consoletetris\consoletetris\consoletetris.cpp(365): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jakub\source\repos\consoletetris\consoletetris\consoletetris\consoletetris.cpp(467): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1250)
+  ConsoleTetris.vcxproj -> C:\Users\Jakub\Source\Repos\ConsoleTetris\ConsoleTetris\Debug\ConsoleTetris.exe
+  ConsoleTetris.vcxproj -> C:\Users\Jakub\Source\Repos\ConsoleTetris\ConsoleTetris\Debug\ConsoleTetris.pdb (Full PDB)
